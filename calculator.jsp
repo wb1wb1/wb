@@ -69,9 +69,3 @@
   	</form>	
   </body>
 </html>
-
---------------------- 
-作者：RiccioZhang 
-来源：CSDN 
-原文：https://blog.csdn.net/ricciozhang/article/details/43233819 
-版权声明：本文为博主原创文章，转载请附上博文链接！
